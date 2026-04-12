@@ -123,5 +123,4 @@ Projet développé par **Berizz**
 
 ## ⚠️ Disclaimer
 
-Projet fictif de marque automobile premium.  
-Aucune affiliation avec Audi, BMW, Mercedes, etc.
+Projet fictif de marque automobile premium.
